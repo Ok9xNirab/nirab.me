@@ -25,3 +25,20 @@ a {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
   @apply no-underline text-black;
 }
+
+.mdx-ul {
+  @apply list-disc font-sans font-light ml-3;
+}
+.mdx-ul > li,
+.mdx-ol > li {
+  @apply leading-10;
+}
+.mdx-ul > li > code,
+.mdx-ol > li > code,
+code {
+  background-color: rgb(40, 44, 52);
+  @apply text-white p-1 rounded font-sans;
+}
+.mdx-ol {
+  @apply font-sans font-light ml-3 list-decimal;
+}

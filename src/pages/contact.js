@@ -4,12 +4,16 @@ import Seo from "../components/seo"
 
 const socials = [
     {
+        "label": "Twitter",
+        "url": "https://twitter.com/ok9xnirab"
+    },
+    {
         "label": "GitHub",
         "url": "https://github.com/ok9xnirab"
     },
     {
-        "label": "Twitter",
-        "url": "https://twitter.com/ok9xnirab"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ok9xnirab/"
     },
     {
         "label": "Facebook",
@@ -18,10 +22,6 @@ const socials = [
     {
         "label": "Instagram",
         "url": "https://www.instagram.com/ok9xnirab"
-    },
-    {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/ok9xnirab/"
     }
 ]
 
