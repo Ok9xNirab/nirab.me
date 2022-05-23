@@ -53,20 +53,11 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          `JetBrains Mono\:100,100i,200,200i,300,300i,400,400i,500,500i,700,700i`,
+          `Space Grotesk\:300,400,500,600,700`,
         ],
         display: 'swap'
       }
-    },
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [
-          `Merriweather`,
-        ],
-        display: 'swap'
-      }
-    },
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
