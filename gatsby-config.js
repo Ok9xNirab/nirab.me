@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Istiaq Nirab`,
-    description: `My name is Istiaq Nirab. I am a software developer. I have a passion for web development and I am currently working on my portfolio.`,
+    description: `Istiaq Nirab is a WordPress plugin developer. Here I share my thoughts on WordPress coding related stuffs.`,
     author: `@Ok9xNirab`,
     siteUrl: `https://nirab.me/`,
+    image: '/me-classic.jpeg',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
