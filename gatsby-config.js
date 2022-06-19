@@ -4,7 +4,7 @@ module.exports = {
     description: `Istiaq Nirab is a WordPress plugin developer. Here I share my thoughts on WordPress coding related stuffs.`,
     author: `@Ok9xNirab`,
     siteUrl: `https://nirab.me/`,
-    image: '/me-classic.jpeg',
+    image: 'https://nirab.me/me-classic.jpeg',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
